@@ -1,0 +1,5 @@
+- git branch -d NAME دي غير git branch —D NAME
+- git checkout -b NAME بيعمل البرانش ويروح عليه
+- git branch -m NEW-NAME بيغير الاسم
+- git merge NAME
+git pull
